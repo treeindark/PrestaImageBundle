@@ -1,5 +1,5 @@
 {
-    "name": "treeindark/image-bundle",
+    "name": "presta/image-bundle",
     "type": "symfony-bundle",
     "description": "Allow to crop local and remote image before uploading them through a classic form.",
     "keywords": ["symfony", "bundle", "form", "image", "picture", "local", "remote"],
